@@ -1,0 +1,19 @@
+{
+    "hipstermysqlApp": {
+        "app" : {
+            "home": {
+                "title": "Apps",
+                "createLabel": "Create a new App",
+                "createOrEditLabel": "Create or edit a App"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete App {{ id }}?"
+            },
+            "detail": {
+                "title": "App"
+            },
+            "name": "Name",
+            "createDate": "CreateDate"
+        }
+    }
+}

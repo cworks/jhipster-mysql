@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "hipstermysql",
+    "packageName": "cworks.hipster",
+    "packageFolder": "cworks/hipster",
+    "authenticationType": "oauth2",
+    "hibernateCache": "hazelcast",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "1d0feb38f660f36a849cb38636fa74fa30d11148",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
